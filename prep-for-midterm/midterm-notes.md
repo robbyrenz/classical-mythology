@@ -26,22 +26,37 @@ For sources, just the basic outline
 ### Sea Peoples
 - 
 
-## Trojan War & the Iliad
-### Peleus, Thetis, Eris, apple of discord, Paris, Helen
-### Sacrifice of Iphigenia
-### Epic – epic/Homeric cycle – basic details
+## **Trojan War & the Iliad**
+### *Peleus, Thetis, Eris, apple of discord, Paris, Helen*
+- An apple of discord is a reference to the Golden Apple of Discord which, according to Greek mythology, the goddess Eris tossed in the midst of the feast of the gods at the wedding of Peleus and Thetis as a prize of beauty, thus sparking a vanity-fueled dispute among Hera, Athena, and Aphrodite that eventually led to the Trojan War.
+-  Zeus held a banquet in celebration of the marriage of Peleus and Thetis (parents of Achilles). However, Eris, goddess of discord was not invited, for it was believed she would have made the party unpleasant for everyone. Angered by this snub, Eris arrived at the celebration with a golden apple from the Garden of the Hesperides, which she threw into the proceedings as a prize of beauty.
+-  Three goddesses claimed the apple: Hera, Athena and Aphrodite. They asked Zeus to judge which of them was fairest, and eventually he, reluctant to favor any claim himself, declared that Paris, a Trojan mortal, would judge their cases, for he had recently shown his exemplary fairness in a contest in which Ares in bull form had bested Paris's own prize bull, and the shepherd-prince had unhesitatingly awarded the prize to the god.
+-  Thus it happened that, with Hermes as their guide, the three candidates bathed in the spring of Ida, then confronted Paris on Mount Ida in the climactic moment that is the crux of the tale. After failing to judge their beauty with their clothing on, the three goddesses stripped nude to convince Paris of their worthiness. While Paris inspected them, each attempted with her powers to bribe him; Hera offered to make him king of Europe and Asia, Athena offered wisdom and skill in war, and Aphrodite, who had the Charites and the Horai to enhance her charms with flowers and song (according to a fragment of the Cypria quoted by Athenagoras of Athens), offered the world's most beautiful woman. This was Helen of Sparta, wife of the Greek king Menelaus. Paris accepted Aphrodite's gift and awarded the apple to her, receiving Helen as well as the enmity of the Greeks and especially of Hera. The Greeks' expedition to retrieve Helen from Paris in Troy is the mythological basis of the Trojan War.
+### *Sacrifice of Iphigenia*
+- Iphigenia was a daughter of King Agamemnon and Queen Clytemnestra, and thus a princess of Mycenae. Agamemnon offends the goddess Artemis, who retaliates by commanding him to kill Iphigenia as a sacrifice so his ships can sail to Troy. In some versions, Iphigenia is sacrificed at Aulis, but in others, Artemis rescues her. In the version where she is saved, she goes to the Taurians and meets her brother Orestes.
+### *Epic – epic/Homeric cycle – basic details*
 ### Homer, Iliad
-### Key episodes (basic details – check the Iliad!): Wrath of Achilles, Menelaus vs. Paris, embassy to Achilles, death of Patroclus, Achilles vs. Hector, Hector’s body
-#### Wrath of Achilles
+### *Key episodes (basic details – check the Iliad!): Wrath of Achilles, Menelaus vs. Paris, embassy to Achilles, death of Patroclus, Achilles vs. Hector, Hector’s body*
+#### *Wrath of Achilles*
+- During the Trojan War, Agamemnon took Chryses' daughter Chryseis (Astynome) from Moesia as a war prize and when Chryses attempted to ransom her, refused to return her. Chryses prayed to Apollo, and he, in order to defend the honor of his priest, sent a plague sweeping through the Greek armies, and Agamemnon was forced to give Chryseis back in order to end it. The significance of Agamemnon's actions lies not in his kidnapping Chryseis (such abductions were commonplace in ancient Greece), but in his refusal to release her upon her father's request.
+- Achilles called for the Greek army leaders to meet to convince Agamemnon to let Chryseis go. Agamemnon was furious that he had to give up the girl, so he took for himself Achilles' slave girl, Briseis.
+- Achilles was angry with Agamemnon because of that that he withdrew from the fighting and refused to let his troops fight with the Greeks.
 #### Menelaus vs. Paris
-- Aphrodite saved him, carried him to... had sex with Helen 
+- this happened after Achilles withdrew from the battle
+- Menelaus and Paris fought as their armies watched. Just as Menelaus was about to drag Paris back to the Greek camp, Aphrodite rescued Paris.
+- Aphrodite then lured Helen to where Paris was, which was in bedroom
+- she was both angry and ... as she didn't want to see Paris get hurt
+- they then had sex
 #### Embassy to Achilles
+- The Greeks are desperate. Agamemnon admits his error, and sends an embassy composed of Odysseus, Ajax, Phoenix, and two heralds to offer Briseis and extensive gifts to Achilles, who has been camped next to his ships throughout, if only he will return to the fighting. Achilles and his companion Patroclus receive the embassy well, but Achilles angrily refuses Agamemnon's offer and declares that he would only return to battle if the Trojans reached his ships and threatened them with fire. The embassy returns empty-handed (Book 9).
 #### Death of Patroclus
-- Hector killed him, thinking it was Achilles as he was wearing his armour, I think
+- Patroclus cannot stand to watch any longer and begs Achilles to be allowed to defend the ships. Achilles relents and lends Patroclus his armor, but sends him off with a stern admonition not to pursue the Trojans, lest he take Achilles' glory. Patroclus leads the Myrmidons into battle and arrives as the Trojans set fire to the first ships. The Trojans are routed by the sudden onslaught, and Patroclus begins his assault by killing Zeus's son Sarpedon, a leading ally of the Trojans. Patroclus, ignoring Achilles' command, pursues and reaches the gates of Troy, where Apollo himself stops him. Patroclus is set upon by Apollo and Euphorbos, and is finally killed by Hector (Book 16).
+- Hector takes Achilles' armor from the fallen Patroclus, but fighting develops around Patroclus' body (Book 17).
 #### Achilles vs. Hector
-- Achilles won
+- Achilles is mad with grief when he hears of Patroclus' death and vows to take vengeance on Hector; his mother Thetis grieves, too, knowing that Achilles is fated to die young if he kills Hector. Achilles is urged to help retrieve Patroclus' body but has no armour. Bathed in a brilliant radiance by Athena, Achilles stands next to the Greek wall and roars in rage. The Trojans are dismayed by his appearance, and the Greeks manage to bear Patroclus' body away. Polydamas urges Hector again to withdraw into the city; again Hector refuses, and the Trojans camp on the plain at nightfall. Patroclus is mourned. Meanwhile, at Thetis' request, Hephaestus fashions a new set of armor for Achilles, including a magnificently wrought shield.
+- The great gates of the city are opened to receive the fleeing Trojans, and Apollo leads Achilles away from the city by pretending to be a Trojan. When Apollo reveals himself to Achilles, the Trojans have retreated into the city, all except for Hector, who, having twice ignored the counsels of Polydamas, feels the shame of the rout and resolves to face Achilles, despite the pleas of his parents, Priam and Hecuba. When Achilles approaches, Hector's will fails him, and he is chased around the city by Achilles. Finally, Athena tricks him into stopping, and he turns to face his opponent. After a brief duel, Achilles stabs Hector through the neck. Before dying, Hector reminds Achilles that he, too, is fated to die in the war. Achilles takes Hector's body and dishonours it by dragging it behind his chariot.
 #### Hector's body
-- Achilles dragged his body for 7 days, I think
+- Dismayed by Achilles' continued abuse of Hector's body, Zeus decides that it must be returned to Priam. Led by Hermes, Priam takes a wagon out of Troy, across the plains, and into the Greek camp unnoticed. He clasps Achilles by the knees and begs for his son's body. Achilles is moved to tears, and the two lament their losses in the war. After a meal, Priam carries Hector's body back into Troy. Hector is buried, and the city mourns.
 ### Success of Iliad
 ### Characterization of gods
 ### Relationship between Patroclus & Achilles
@@ -60,7 +75,7 @@ Be able to identify the Olympians in art: Aphrodite, Apollo, Ares, Artemis, Athe
 ### Poseidon
 ### Zeus
 
-## Aphrodite & Eros
+## **Aphrodite & Eros**
 - Aphrodite was the goddess of love, beauty, pleasure & procreation
 - born from sea form
 - depicted as a beautiful woman
@@ -80,25 +95,39 @@ Be able to identify the Olympians in art: Aphrodite, Apollo, Ares, Artemis, Athe
 ### nature, appearance of Aphrodite.
 - depicted as a beautiful woman
 - Aphrodite punished those who neglected her worship or despised her power, as well as others in which she favoured and protected those who did homage to her and recognized her sway.
-- in *Illiad* 14. 197-221, *Hera* devises a plan to deceive Zeus. She was on the Archaeans' side, as Paris, a Trojan (I think), decided that Aprodite was the most beautiful goddess. She beautifies herself in the private chamber that her son *Hepaestus* built her, and tricked Aphrodite into giving her own embroidered breast band to her by saying she wanted to bring *Ocean* and *Tethys* to stop fighting and bring them closer together. With the help of *Sleep* or *Hypnos*, she tricked Zeus into a deep sleep (*Sleep* agreed to this because *Hera* promised to make Pasithee his wife, who he fancied) Because of this distraction, she was able to get the Greeks to regain the upper hand in the *Trojan War.*
+- in *Iliad* 14. 197-221, *Hera* devises a plan to deceive Zeus. She was on the Archaeans' side, as Paris, a Trojan (I think), decided that Aprodite was the most beautiful goddess. She beautifies herself in the private chamber that her son *Hepaestus* built her, and tricked Aphrodite into giving her own embroidered breast band to her by saying she wanted to bring *Ocean* and *Tethys* to stop fighting and bring them closer together. With the help of *Sleep* or *Hypnos*, she tricked Zeus into a deep sleep (*Sleep* agreed to this because *Hera* promised to make Pasithee his wife, who he fancied) Because of this distraction, she was able to get the Greeks to regain the upper hand in the *Trojan War.*
 ### myth of Pygmalion
 - *Pygmalion* was a king of the island of Kypros (Cyprus) who fell in love with an ivory statue of the goddess Aphrodite. In answer to his prayers the statue was brought to life and afterwards became his wife.
 - Pygmalion saw these women [the Propoitides who had become prostitutes,] waste their lives in wretched shame, and critical of faults which nature had so deeply planted through their female hearts, he lived in preference, for many years unmarried. But while he was single, with consummate skill, he carved a statue out of snow-white ivory, and gave to it exquisite beauty, which no woman of the world has ever equalled: she was so beautiful, he fell in love with his creation.
 ### Aphrodite and Adonis
-- 
+- Adonis was the mortal lover of the goddess Aphrodite in Greek mythology
+- he was conceived after Aphrodite cursed his mother Myrrha to lust after her own father, King Cinyras of Cyprus. Myrrha had sex with her father in complete darkness for nine nights, but he discovered her identity and chased her with a sword. The gods transformed her into a myrrh tree and, in the form of a tree, she gave birth to Adonis. Aphrodite found the infant and gave him to be raised by Persephone, the queen of the Underworld. Adonis grew into an astonishingly handsome young man, causing Aphrodite and Persephone to feud over him, with Zeus eventually decreeing that Adonis would spend one third of the year in the Underworld with Persephone, one third of the year with Aphrodite, and the final third of the year with whomever he chose. Adonis chose to spend his final third of the year with Aphrodite.
+- Ovid depicts the psychic struggle Myrrha faces between her sexual desire for her father and the social shame she would face for acting thereon. Sleepless, and losing all hope, she attempted suicide; but was discovered by her nurse, in whom she confided. The nurse tried to make Myrrha suppress the infatuation, but later agreed to help Myrrha into her father's bed if she promised that she would not again try to kill herself.
+- One day, Adonis was gored by a wild boar during a hunting trip and died in Aphrodite's arms as she wept. His blood mingled with her tears and became the anemone flower. Aphrodite declared the Adonia festival commemorating his tragic death, which was celebrated by women every year in midsummer.
 ### Cybele and Attis
 ### Aphrodite & Anchises
 ### Eros as presented in Plato’s Symposium – Aristophanes’ version
 ### Cupid & Psyche
 
-## Poseidon & the Sea
-### Pontus, Oceanus, Triton, Proteus, Nereus
+## **Poseidon & the Sea**
+### *Pontus, Oceanus, Triton, Proteus, Nereus*
+- 
 ### myths of the three important Nereids:
 - Thetis
+    - she was a sea nymph in Greek mythology, or according to some myths, one of the Nereids, the fifty daughters of the sea god Nereus and Doris. She was courted by both Zeus and Poseidon, but neither of them married her, out of fear of a prophecy that said Thetis' son would surpass his father in glory. Instead, she married Peleus, with whom she had a son, the mythical hero Achilles.
+    - When Hephaestus, the blacksmith god, was thrown from Olympus either by Hera or Zeus, it was Thetis along with Eurynome that helped him and placed him on the island of Lemnos. There, he worked for them as a blacksmith.
+    - When Thetis gave birth to her son, Achilles, she decided to make him immortal by dipping him in the sacred waters of the river Styx, one of the rivers that flowed through the Underworld. However, when she was dipping him, she did not realise that his heel by which she held him was not touched by the waters, thus leaving that spot vulnerable.
 - Galatea
+    -  is a name popularly applied to the statue carved of ivory by Pygmalion of Cyprus, which then came to life in Greek mythology
 - Amphitrite
+    - Amphitrite was the goddess-queen of the sea, wife of Poseidon, and eldest of the fifty Nereides. She was the female personification of the sea--the loud-moaning mother of fish, seals and dolphins.
+    - When Poseidon first sought Amphitrite's hand in marriage, she fled his advances, and hid herself away near Atlas in the Ocean stream at the far ends of the earth. The dolphin-god Delphin eventually tracked her down and persuaded her to return to wed the sea-king.
 ### appearance and character of Poseidon
 ### Scylla and Charybdis
+- SKYLLA (Scylla) was a sea-monster who haunted the rocks of a narrow strait opposite the whirlpool of Kharybdis (Charybdis). Ships who sailed too close to her rocks would lose six men to her ravenous, darting heads
+- Scylla was beloved by Poseidon, and that Amphitrite, from jealousy, metamorphosed her into a monster
+- KHARYBDIS (Charybdis) was a sea-monster whose gigantic whirlpool swirled in the straits of Messina opposite the cliffs of the monster Skylla (Scylla). She was probably the daimon of the tides with her thrice daily sucking and expulsion of waters--mentioned by Homer--imagined as the cause of the three high and low tides of the day.
+- she thrice every day swallowed down the waters of the sea, and thrice threw them up again: both were formidable to the ships which had to pass between them. Charybdis is described as a daughter of Poseidon and Gaea, and as a voracious woman,who stole oxen from Heracles, and was hurled by the thunderbolt of Zeus into the sea, where she retained her voracious nature.
 
 ## Zeus & Hera
 ### Zeus’ character and role as the lord of gods and men.
@@ -106,7 +135,7 @@ Be able to identify the Olympians in art: Aphrodite, Apollo, Ares, Artemis, Athe
 ### Hera
 ### Zeus & Hera
 ### Hephaestus
-- Complex relationship & difficult upbrining
+- Complex relationship & difficult upbringing
 ### Ares
 - War
 - Relationship with Aphrodite
