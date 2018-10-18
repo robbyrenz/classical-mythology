@@ -112,18 +112,29 @@ Be able to identify the Olympians in art: Aphrodite, Apollo, Ares, Artemis, Athe
 - Relationship with Aphrodite
 
 ## Athena
+- Goddess of wisdom and good counsel, war etc.
 ### myth of Athena’s birth
-- Metis & Zeus
+#### Metis & Zeus
+- Zeus slept with Metis, although she turned herself into many forms in order to avoid having sex with him. When she was pregnant, Zeus took the precaution of swallowing her, because she had said that, after giving birth to the daughter presently in her womb, she would bear a son who would gain the lordship of the sky. In fear of this he swallowed her. When it came time for the birth, Prometheus (or Hephaistos, according to some) by the river Triton struck the head of Zeus with an axe, and from his crown Athena sprang up, clad in her armour.
 ### character and appearance of Athena
 ### Athena and Arachne
+- ARACHNE (Arakhnê), a Lydian maiden, daughter of Idmon of Colophon, who was a famous dyer in purple. His daughter was greatly skilled in the art of weaving, and, proud of her talent, she even ventured to challenge Athena to compete with her. Arachne produced a piece of cloth in which the amours of the gods were woven, and as Athena could find no fault with it, she tore the work to pieces, and Arachne in despair hung herself. The goddess loosened the rope and saved her life, but the rope was changed into a cobweb and Arachne herself into a spider (arachnê), the animal most odious to Athena. (Ov. Met. vi. 1-145; Virg. Georg. iv. 246.) This fable seems to suggest the idea that man learnt the art of weaving from the spider, and that it was invented in Lydia.
 ### flute & Marsyas
+- Some make him a satyr, others a peasant. All agree in placing him in Phrygia. The following is the outline of his story, according to the mythographers. Athena having, while playing the flute, seen the reflection of herself in water, and observed the distortion of her features, threw away the instrument in disgust. It was picked up by Marsyas, who no sooner began to blow through it than the flute, having once been inspired by the breath of a goddess, emitted of its own accord the most beautiful strains.
 ### Athena vs. Poseidon
+- There once came a time in Ancient Greece when the first king of Athens, Cecrops, who was half person and half snake, had to find a patron deity for the city state of Athens.
+- The two Olympian gods who were particularly interested in the patronage were Poseidon, the god of the Seas and Athena, the goddess of Wisdom and Skill. They presented themselves in front of Cecrops and Cecrops asked from them to offer a gift truly valuable for Athens.
+- Poseidon came first: he struck the earth powerfully and created a well with his trident. Immediately, streaming water shot forth, but the water turned out to be salty and not very useful for the population.
+- Next, it was the turn of goddess Athena. Athena stepped forward, struck her spear into the ground and then she kneeled and planted an olive branch in it. This way she created an olive tree, as a symbolization of peace and prosperity on earth.
+- Cecrops was very impressed by Athena’s gift. So he chose Athena to lay claim of the city of Athens and the city was named after her. God Poseidon, however, was not pleased with the decision of Cecrops and cursed the city of Athens to never have enough water from then on. After that, it is said that a major problem of water shortage started in Athens, which continues until nowadays.
 
 ## Hermes
+- god of herds & flocks, 
+- herald & personal messenger of Zeus
 ### Maia
 ### Hermes’ birth and his quarrel and reconciliation with Apollo
-- Invents the lyre
-- Steals Apollo’s Cattle
+#### Invents the lyre
+#### Steals Apollo’s Cattle
 ### character and appearance of Hermes
 ### myth of Hermaphroditus
 
