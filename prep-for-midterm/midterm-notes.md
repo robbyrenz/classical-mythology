@@ -132,19 +132,58 @@ Be able to identify the Olympians in art: Aphrodite, Apollo, Ares, Artemis, Athe
 - god of herds & flocks, 
 - herald & personal messenger of Zeus
 ### Maia
+- Hermes was a son of Zeus and the Pleiad-nymphe Maia
 ### Hermes’ birth and his quarrel and reconciliation with Apollo
+- Maia, after her intercourse with Zeus, bore Hermes in a cave on Kyllene.
+- Three main points
+    - **HERMES STEALS APOLLO'S CATTLE**
+        - Though he was laid out in swaddling-clothes with her winnowing-basket for a cradle, he escaped and made his way to Pieria, where he stole some cattle that Apollon was tending. To keep from being discovered by the tracks, he put boots on their feet and led them to Pylos. He hid them in a grotto, except for two which he sacrificed, pinning up their hides on rocks, boiling some of the meat for his meal and burning the rest.
+    - **HERMES INVENTS THE LYRE**
+        - Outside the cave he found a tortoise feeding. He cleaned it out, and stretched across the shell strings made from the cattle he had sacrificed, and when he had thus devised a lyre he also invented a plectrum.
+    - **HERMES TRADES THE LYRE FOR THE HERDS**
+        - Meanwhile Apollon reached Pylos in his search for the cattle, and asked the locals about them. They told him that they had indeed seen a boy driving some cattle, but they could not say where they had been driven because there were no tracks to be found. So Apollon learned who the thief was by divine science, and made his way to Maia on Kyllene to charge Hermes. Maia, however, showed Apollon the baby in his swaddling-clothes, whereupon Apollon took him to Zeus and demanded his cattle. When Zeus told Hermes to return them, he denied everything, but since his father would not believe him, he led Apollon to Pylos and gave him back his cattle. Then, when Apollon heard the lyre, he exchanged the cattle for that.
+    - **HERMES TRADES THE PIPE FOR HERALDRY & RUSTIC DIVINITATION**
+    - **ZEUS CONFIRMS THE DIVINE PRIVILEGES OF HERMES**
+        - And Zeus made Hermes his personal herald and messenger of the gods beneath the earth
 #### Invents the lyre
+- look above
 #### Steals Apollo’s Cattle
+- look above
 ### character and appearance of Hermes
 ### myth of Hermaphroditus
+- his parents are Hermes and Aphrodite
+- According to some he was once a handsome youth who attracted the love of a Naiad nymphe Salmakis (Salmacis). She prayed to to be united with him forever and the gods, answering her prayer, merged their two forms into one. At the same time her spring acquired the property of making men who bathed in its waters soft and effeminate.
 
-## Demeter
+## **Demeter**
+- she was the Olympian goddess of agriculture, grain and bread who sustained mankind with the earth's rich bounty.
 ### Demeter and Persephone in the Homeric Hymn to Demeter
+- The Homeric Hymn to Demeter describes in detail how Hades, god of the underworld, stole Persephone, how her mother searched for her and hid the seed within the earth until she got her daughter back again. This excerpt describes how Persephone returns, but only for part of the year, because she ate seeds in the underworld and must now forever return to spend four months of the year with her husband.
 ### Abduction of Persephone
+- Persephone was gathering flowers in a soft meadow
+- one of the flowers was a snare trap
+- she bent over to pick up with both hands and that was when the ground opened and she was sucked into the underworld
+- Hades was responsible for this as he wanted to make her his wife
+- the flower was made to grow there at the will of Zeus
 ### Demeter’s grief & anger
+- she heard her daughter's cries for help & she started looking for her, day & night
+- no one would tell her the truth of what happened
+- on the tenth day, Hekate just said that he heard her cries
+- then Helios, out of pity, told her the truth
+- she was so angry that she refused to be in the gathering of the Gods in Mount Olympus
+- she stayed in the towns of men, disguising herself
 ### Demeter & Eleusis
+- Demeter Comes to Eleusis. She came to ELEUSIS [e-lou'sis] and, grieving, sat in the shade beside the Maiden Well. She looked like a very old woman who might be a housekeeper or a children's nurse. The four daughters of CELEUS [see'le-us] or KELEUS, the king of Eleusis, and METANEIRA [me-ta-neye'ra], his wife, saw her there when they came to draw water and questioned her. Demeter answered that she would tell them the truth, but instead invented for herself a human identity. Her name is DOSO [doh'soh], and she was carried off from Crete by pirates, from whom she escaped when they disembarked. She does not know where she has come in her travels, but she hopes that the maidens will help her find work as a housekeeper or a nurse. Callidice, the most beautiful of the daughters of Celeus, suggested that the old woman remain at the well until they return home to ask their mother if they might come back to fetch her.
 ### Celeus & Metaneira
-### Demeter & Demophoon
-### Zeus & Hades
-
+- Demeter Arrives at the Home of Celeus and Metaneira. When the young women returned home and told their mother all about Doso, Metaneira directed them to return quickly and hire the woman at any price. For she cherished an only son, long prayed for, who needed care. So they brought the goddess to their house, grieving, with her head veiled and wearing a dark robe. As the goddess stood in the threshold her head reached up to the beams, and she filled the doorway with a divine radiance. Metaneira, overcome by awe, asked her guest to be seated. Demeter refused to sit on the splendid couch offered but instead waited until a servant IAMBE [eye-am'bee] brought her an artfully made chair and threw a fleece over it. Then Demeter sat down, holding her veil over her face, silent and serious, tasting no food or drink and overcome by longing for her daughter. Iambe, however, with jests and jokes (doubtlessly in iambic meter) caused the holy lady to smile and laugh. She refused the red wine that Metaneira offered but instead ordered Metaneira to mix meal, water, and mint for her. The great lady Demeter accepted the drink for the sake of the holy rite, i.e., to initiate and observe the holy rite or sacrament. This drink (the kykeon) very likely represented a kind of communion.
+### *Demeter & Demophoon*
+- Demeter Nurses Demophoön. Metaneira promised Demeter great rewards if she would nurse her child DEMOPHOÖN [de-mof'oh-on], or DEMOPHON, and bring him up. Demeter took the child to her bosom, promising that he would not be harmed by evil charms. She nourished him on ambrosia, and she breathed sweetness upon him, and he grew like a god. At night, she hid him in the fire, without the knowledge of his parents, who were amazed how their child grew and flourished. Demeter would have made Demophoön immortal, if foolish Metaneira had not spied upon her and cried out in terror because this stranger was burying her son within the blazing fire.
+- Demeter Reveals Her Divinity. Demeter was enraged at the stupidity of Metaneira, who by her interference had ruined Demeter’s plan to make the boy immortal. Nevertheless, Demeter would still allow Demophoön to flourish as a mortal and grant him imperishable honor because he had slept in her arms. Then Demeter proclaimed, “I am Demeter, esteemed and honored as the greatest benefit and joy to mortals and immortals,” and gave her instructions for the future of Eleusis. She cast off her old age and transformed her size and appearance. Fragrant beauty and a divine radiance breathed around her, and her golden hair flowed down on her shoulders. The house was filled with her brilliance as though with a lightning flash. She disappeared, and Metaneira was overcome by astonishment and fear.
+- Demeter’s Instructions. Before her disappearance, Demeter had ordered that the people of Eleusis build for her a great temple and an altar below the town on the rising hill above the well Kallichoron; she promised to teach them her rites so that by performing them with reverence they might propitiate her heart. King Celeus saw to it that Demeter’s will was accomplished.
+### *Zeus & Hades*
+- Demeter’s Determined Grief. Demeter, still wasted with longing for her daughter, caused for mortals a most devastating year with no harvest. The earth would not send up a single sprout. By continuing in this gashion, she would not only have destroyed the entire human race with cruel famine but would also have deprived the Olympian gods of their glorious prestige from gifts and sacrifices. Zeus finally took notice. He sent Iris to Demeter in her temple at Eleusis with his command that she rejoin the company of the gods. Demeter refused to obey. So Zeus sent down all the immortal gods, who approached Demeter one by one, offering any gifts or honors that she might choose. Demeter stubbornly insisted that she would never set foot on Olympus until she with her own eyes saw her daughter again.
+- Zeus’ Orders to Hades. Thus Zeus was forced to send Hermes down to explain to Hades all that Demeter had said and done; Hermes also delivered the command that Persephone return with him out of the Underworld so that her mother might see her and desist from her wrath. Hades smiled grimly and immediately obeyed Zeus the king. He ordered Persephone to return with a loving heart to her mother; but he also told her that he was not an unworthy husband for her, since he was the full brother of her father Zeus and that while she was with him she would rule as his queen, a great goddess. Those who did not propitiate her power by performing holy rites and sacrifices would find eternal retribution.
+- Persephone Eats of the Pomegranate. Joyous Persephone jumped up quickly. But (according to the poet of the Hymn) Hades secretly gave his wife the fruit of the pomegranate to eat to ensure the fulfillment of his words to her as her husband; she should not remain the whole year above with her mother Demeter but would rule with him below for part of the time. He then yoked his immortal horses to his golden chariot, which Persephone mounted. Hermes took the reins, and in no time at all they came to a halt in front of the temple where Demeter waited.
+- Demeter’s Ecstatic Reunion with Her Daughter. At the sight of her daughter, Demeter rushed out of the temple with the passion of a maenad, and Persephone leaped down from the chariot and ran to meet her mother, throwing her arms around her neck. Immediately Demeter sensed some treachery and asked if Persephone had eaten any food in the Underworld. If she had not, she would live with her father Zeus and mother Demeter above, but if she had eaten anything, she would live a third part of the year in the Underworld and the other two thirds in the upper world. With the burgeoning spring she would wondrously rise again from the gloomy region below. Demeter ended by asking by what trick Hades has deceived her. Persephone said that she would tell the truth. According to her version (contradicting the description of Hades’ secret deception just given), when she jumped up at the news of her return, Hades swiftly put into her mouth the fruit of the pomegranate and compelled her to eat it by force, against her will. Then Persephone painfully described how Hades carried her off, despite her screams. Their mutual grief was soothed by their loving and tender embraces. Hecate arrived and affectionately shared their joy. From that time on she became one of Persephone’s attendants.
+- Demeter Restores Fertility to the Earth. Zeus sent Rhea to lead Demeter back among the gods with the following message. He promised to grant Demeter the honors among the immortals that she would choose, and he consented that her daughter live a third part of the year below and the other two thirds above, with her mother and the other gods. Rhea swiftly rushed down and delivered Zeus’ pronouncements and encouraged Demeter to comply, first by restoring the earth7rsquo;s fertility for mortals. Demeter obeyed. She miraculously caused fruit to spring up from earth that had previously been barren, and the whole land blossomed with flowers.
+-----------------------------------
 **FIN**
