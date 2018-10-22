@@ -1,2 +1,11 @@
 # ignore the folder vscode automatically makes 
 .vscode/
+
+# ignoring the "unnecessary" files LaTeX makes when compiling
+*.bbl
+*.run.xml
+*.aux
+*.bcf
+*.log
+*.blg
+
