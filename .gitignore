@@ -9,3 +9,12 @@
 *.log
 *.blg
 
+# ignoring these files LaTeX makes (for some reason that I'm not sure)
+*.tex*
+*.bib*
+
+# ignoring whatever the below files are
+.gitignore.swp
+..gitignore.un~
+.gitignore~
+
