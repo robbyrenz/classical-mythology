@@ -17,4 +17,5 @@
 .gitignore.swp
 ..gitignore.un~
 .gitignore~
+*~
 
