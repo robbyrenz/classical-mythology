@@ -30,6 +30,7 @@ The exam is to be held on Wednesday, December 5, at 1:30-4:30pm, in 4M31.
 
 - Bacchae or Maenads: female followers
 - Satyrs: human + horse/goat
+- Bacchus: Dionysus
 
 ### Myth of Dionysus’ birth, his historical origins, his nature, and his worship - Semele
 - Olympian god of wine, vegetation, pleasure, festivity, madness and wild frenzy.
@@ -108,20 +109,42 @@ The exam is to be held on Wednesday, December 5, at 1:30-4:30pm, in 4M31.
 - more of something here.
 
 ### Pan and Echo
-- more of something here.
+- Pan was the god of shepherds and hunters, and of the meadows and forests of the mountain wilds.
+- Pan was depicted as a man with the horns, legs and tail of a goat, a thick beard, snub nose and pointed ears.
+- He often appears in scenes of the company of Dionysos.
+- Pan loved Echo, but she did not love him back.
+- 
 
 ### Echo & Narcissus
 - more of something here.
 
 # Artemis
-### births of Artemis and Apollo
-- more of something here.
+| THE GODDESS ARTEMIS |
+| -------------- | ----- |
+| Parents | Zeus and Leto |
+| Goddess of | Hunting, wild animals, children |
+| Home | Mount Olympus |
+| Symbols | Bow and arrows |
+| Sacred Animals | Deer, bear |
+| Retinue | Nymphs |
+| Other Names | Phoebe |
+| Roman Name | Diana |
+
+### Births of Artemis and Apollo
+- Artemis' mother Leto was hounded throughout her pregnancy by the jealous goddess Hera.
+- She eventually found refuge on the floating island of Delos.
+- There she gave birth to Artemis who assisted her mother as midwife with the birth of her younger twin-brother Apollon.
 
 ### Niobe & her children
-- more of something here.
+- Artemis and Apollon slew the seven sons and seven daughters of Niobe as punishment for her arrogant boasts that she was superior in motherhood to their own mother Leto.
+- Niobe A queen of Thebes in Boiotia (central Greece).
+- They killed them because Niobe likened herself to Leto of the fair-colouring and said Leto had borne only two, she herself had borne many.
 
 ### Actaeon
-- more of something here.
+- Artemis transformed the hunter Aktaeon into a stag, to be torn apart by his own hounds, as punishment for spying on her whilst she bathed.
+- Actaeon saw Artemis bathing.
+- They say that the goddess changed him on the spot into a deer, and drove his fifty hunting dogs into a frenzy so that they unintentionally ate him.
+- When he was no more, they looked for their master with great howls and bays, coming in the course of their search to Kheiron's cave.
 
 ### Callisto & Arcas
 - more of something here.
