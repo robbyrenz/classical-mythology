@@ -88,10 +88,21 @@ The exam is to be held on Wednesday, December 5, at 1:30-4:30pm, in 4M31.
 - Agave and her sisters are sent into exile, and Dionysus decrees that Cadmus and his wife Harmonia will be turned into snakes and leads a barbarian horde to plunder the cities of Hellas.
 
 ### Dionysus & Apollo
-- more of something here.
+- These two gods can be seen as representing rational (Apollo) and irrational (Dionysus).
+- Dionysus and Apollo are both the sons of Zeus and are gods of the creative arts in the Greek tradition.
+- Apollo is the god of the sun, of rational thinking and order, and appeals to logic, prudence and purity.
+- Dionysus is the god of wine and dance, of irrationality and chaos, and appeals to emotions and instincts.
+- Apollo was associated with the Sun; he was the god of light, though his association with light, Apollo comes to represent justice, prophecy, and mental and moral purity, and is the god of healing.
+- Because of his own salvation and stories about bringing Semele back to life, Dionysus is associated with death and resurrection.
+- Apollo, like Dionysus, inspired poetry and music; unlike Dionysus, however, Apollo's poetry and music are elevated and orderly. He is sober, elegant, and eloquent; he plays the lyre; he is never ecstatic.
+- More to add...?
 
 ### Dionysus & Ariadne
-- more of something here.
+- Ariadne was the immortal wife of the wine-god Dionysus.
+- Ariadne, a daughter of King Minos of Krete (Crete), assisted Theseus in his quest to slay the Minotauros (Minotaur) and then fled with the hero aboard his ship.
+- When they landed on the island of Naxos Theseus abandoned her as she slept.
+- It was then that Dionysos discovered her and made her his wife.
+- More to add...?
 
 ### Midas, Silenus, the Golden Touch
 - more of something here.
