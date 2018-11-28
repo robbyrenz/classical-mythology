@@ -89,7 +89,7 @@ The exam is to be held on Wednesday, December 5, at 1:30-4:30pm, in 4M31.
 - Agave and her sisters are sent into exile, and Dionysus decrees that Cadmus and his wife Harmonia will be turned into snakes and leads a barbarian horde to plunder the cities of Hellas.
 
 ### Dionysus & Apollo
-- These two gods can be seen as representing rational (Apollo) and irrational (Dionysus).
+- These two gods can be seen as representing rational (Apollonian) and irrational (Dionysian).
 - Dionysus and Apollo are both the sons of Zeus and are gods of the creative arts in the Greek tradition.
 - Apollo is the god of the sun, of rational thinking and order, and appeals to logic, prudence and purity.
 - Dionysus is the god of wine and dance, of irrationality and chaos, and appeals to emotions and instincts.
@@ -172,7 +172,11 @@ The exam is to be held on Wednesday, December 5, at 1:30-4:30pm, in 4M31.
 | Roman Name | Apollo |
 
 ### Apollo & Delphi
-- more of something here.
+- Python was a monstrous dragon-serpent set by Gaia to guard the sacred oracle of Delphi.
+- According to some, the creature was born from the rotting slime left behind by the Great Deluge.
+- When the god Apollo laid claim to the shrine, he slew Python with a volley of a hundred arrows.
+- The oracle and festival of Delphi were afterwards named Pytho and Pythian from the rotting (pythô) corpse of the beast.
+- Some say Apollon slew the monster to avenge his mother Leto who had been relentlessly pursued by the dragon during her long pregnancy.
 
 ### Pythia
 - more of something here.
@@ -181,22 +185,28 @@ The exam is to be held on Wednesday, December 5, at 1:30-4:30pm, in 4M31.
 - more of something here.
 
 ### Daphne
-- more of something here.
+- Daphne was a Naiad-nymph of the river Ladon of Arkadia or the Peneios (Peneus) in Thessalia.
+- She was loved by the god Apollo who pursued her until she grew exhausted and cried out to Gaia for help.
+- The goddess transformed into a laurel tree which Apollo then adopted as his sacred plant.
 
 ### Coronis
 - more of something here.
 
-## a. Asclepius
-- more of something here.
+    #### a. Asclepius
+    - more of something here.
 
 ### Alcestis of Euripides
 - more of something here.
 
 ### Apollo and Marsyas
-- more of something here.
+- marsyas was a Phrygian Satyr who invented the music of the flute.
+- He found the very first flute which had been crafted but cast away by the goddess Athena who had been displeased by the bloating of the cheeks.
+- Marsyas later challenged the god Apollo to a musical contest but lost when the god demanded they play their instruments upside-down in the second round, a feat ill-suited to the flute.
+- As punishment for his hubris, Apollo had Marsyas tied to a tree and flayed alive.
+- The rustic gods then transformed him into a stream.
 
 ### Apollo and Pan
-- more of something here.
+- The story of Marsyas' contest with Apollon is sometimes told of the Arkadian god Pan.
 
 ### Nature of Apollo
 - more of something here.
