@@ -159,27 +159,47 @@ The exam is to be held on Wednesday, December 5, at 1:30-4:30pm, in 4M31.
 - more of something here.
 
 # Apollo
+| THE GOD APOLLO |
+| ---------------- | ---------|
+| Parents | Zeus and Leto |
+| God of | Music, prophecy, healing, archery |
+| Home | Mount Olympus |
+| Symbols | Lyre, bow |
+| Sacred Animals | Swan, raven |
+| Sacred Plants | Laurel, larkspur, cypress |
+| Retinue | Muses |
+| Other Names |	Phoebus |
+| Roman Name | Apollo |
+
 ### Apollo & Delphi
 - more of something here.
+
 ### Pythia
 - more of something here.
+
 ### Cassandra
 - more of something here.
+
 ### Daphne
 - more of something here.
+
 ### Coronis
 - more of something here.
+
 ## a. Asclepius
 - more of something here.
+
 ### Alcestis of Euripides
 - more of something here.
+
 ### Apollo and Marsyas
 - more of something here.
+
 ### Apollo and Pan
 - more of something here.
+
 ### Nature of Apollo
 - more of something here.
-
 
 # Underworld
 ### Ovid’s Metamorphoses
