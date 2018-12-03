@@ -226,7 +226,11 @@ The exam is to be held on Wednesday, December 5, at 1:30-4:30pm, in 4M31.
 - more of something here.
 
 ### Cassandra
-- more of something here.
+- Cassandra, was a daughter of King Priam and of Queen Hecuba of Troy in Greek mythology.
+- She was admired by the god Apollo, and he offered her the gift to see the future in order to win her heart.
+- Cassandra agreed to be his lover in return to his gift, but after receiving the gift, she went back on her word and refused him.
+- Apollo was angered that she lied to and deceived him, but since he couldn't take back a gift already given, he cursed her that though she would see the future accurately, nobody would ever believe her prophecies.
+- Thus, Cassandra was cursed to utter prophecies that were true but that no one believed.
 
 ### Daphne
 - Daphne was a Naiad-nymph of the river Ladon of Arkadia or the Peneios (Peneus) in Thessalia.
