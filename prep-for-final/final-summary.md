@@ -150,7 +150,14 @@ The exam is to be held on Wednesday, December 5, at 1:30-4:30pm, in 4M31.
 - more of something here.
 
 ### Orion
-- more of something here.
+- Orion was a handsome giant granted the ability to walk on water by his father Poseidon.
+- He served King Oenopion of Chios as huntsman for a time, but was blinded and exiled from the island after raping the king's daughter Merope.
+- Orion then travelled across the sea to Lemnos to petition the god Hephaestus for help in recovering his sight.
+- Lending him his assistant Kedalion (Cedalion), the god directed the giant to the rising place of the sun where Helios restored his vision.
+- Upon returning to Greece, Orion sought out Oinopion to exact his revenge but the king hid himself away in an underground, bronze chamber.
+- The giant then retired to the island of Delos or Crete where he became a hunting companion of the goddess Artemis.
+- He desired to marry Artemis but her brother Apollo tricked the goddess into shooting him with an arrow as he was swimming far out at sea.
+- After his death he was placed amongst the stars as the constellation Orion.
 
 ### character, appearance, and origins of Artemis
 - more of something here.
