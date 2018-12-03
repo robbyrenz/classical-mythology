@@ -369,6 +369,8 @@ The exam is to be held on Wednesday, December 5, at 1:30-4:30pm, in 4M31.
 - With these, Hermes’ sword, and Athena’s mirrored shield—which enables him to avoid looking directly at the Gorgons, which would turns him to stone—he creeps into the Gorgons’ cave while they are sleeping.
 - The two gods point out Medusa, the only mortal one.
 - While looking at her in the mirror, Perseus chops off her head and puts it in the magic wallet, then begins to fly home.
+- According to late classical poets, Medousa was once a beautiful woman who was transformed into a monster by Athena as punishment for lying with Poseidon in her shrine.
+- Earlier Greek writers and artists, however, simply portray her as a monster born into a large family of monsters.
 
 ### Andromeda
 - Along the way, he comes upon Andromeda, a princess who has been chained to a rock because her mother, Cassiopeia, has offended the gods.
@@ -377,8 +379,11 @@ The exam is to be held on Wednesday, December 5, at 1:30-4:30pm, in 4M31.
 - Perseus goes to Polydectes’ palace where all the evil men of the kingdom are gathered.
 - He marches into the meeting and reveals Medusa’s head, turning all the men to stone.
 - He lives happily ever after but only after unwittingly fulfilling the prophecy of the Oracle: while participating in a discus-throwing contest, Perseus accidentally hits and kills a spectator, who is, unbeknownst to him, his grandfather Acrisius.
+- More to add???
 
 # Jason & Medea
+- Medea was the daughter of King Aeetes of Colchis in Greek mythology, and wife of the mythical hero Jason.
+
 ### Golden Fleece
 - more of something here.
 
@@ -451,14 +456,18 @@ The exam is to be held on Wednesday, December 5, at 1:30-4:30pm, in 4M31.
 # Trojan War & the Odyssey
 ### Sack of Troy – death of Achilles, wooden horse
 - more of something here.
+
 ### The Aeneid – Aeneas’ escape from Troy
 - more of something here.
+
 ### Agamemnon, Clytemnestra, Iphigenia
 - more of something here.
+- 
 ### Orestes, Electra
 - more of something here.
+- 
 ### Odyssey – life of Odysseus
 - more of something here.
+- 
 ### Final episode of Netflix’s Troy – reception of the war
 - more of something here.
-
