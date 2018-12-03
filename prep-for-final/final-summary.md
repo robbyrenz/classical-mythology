@@ -288,10 +288,10 @@ The exam is to be held on Wednesday, December 5, at 1:30-4:30pm, in 4M31.
 - something
 
 ### Gilgamesh & Enkidu
-- Gilgamesh, king of the Sumerian city-state of Uruk, who was two-thirds god and one-third man.
+- **Gilgamesh**, king of the Sumerian city-state of Uruk, who was two-thirds god and one-third man.
 - He was physically beautiful, immensely strong, and very wise, but he was a cruel despot.
 - He lorded over his subjects, raped women, accomplished his building projects with forced labor, and his exhausted subjects groaned under his oppression.
-- So basically, the gods heard his subjects’ pleas and decided to keep Gilgamesh in check by creating a wild man named Enkidu, who was as magnificent as Gilgamesh.
+- So basically, the gods heard his subjects’ pleas and decided to keep Gilgamesh in check by creating a wild man named **Enkidu**, who was as magnificent as Gilgamesh.
 - Enkidu became Gilgamesh’s great friend, and Gilgamesh’s heart was shattered when Enkidu died of an illness inflicted by the gods. Gilgamesh then traveled to the edge of the world and learned about the days before the deluge and other secrets of the gods, and he recorded them on stone tablets.
 - The summary of the epic poem:
     - The epic begins with Enkidu. He lives with the animals, suckling at their breasts, grazing in the meadows, and drinking at their watering places. A hunter discovers him and sends a temple prostitute into the wilderness to tame him.
@@ -302,26 +302,81 @@ The exam is to be held on Wednesday, December 5, at 1:30-4:30pm, in 4M31.
     - Enkidu steps into the doorway and blocks his passage and the two men wrestle fiercely for a long time, and Gilgamesh finally prevails.
     - After that, they become friends and set about looking for an adventure to share.
     - Gilgamesh and Enkidu decide to steal trees from a distant cedar forest forbidden to mortals.
-    - But a terrifying demon named Humbaba, the devoted servant of Enlil, the god of earth, wind, and air, guards it. 
+    - But a terrifying demon named **Humbaba**, the devoted servant of **Enlil**, the god of earth, wind, and air, guards it.
+    - The two heroes make the perilous journey to the forest, and, standing side by side, fight with the monster.
+    - With assistance from **Shamash** the sun god, they kill him.
+    - Then they cut down the forbidden trees, fashion the tallest into an enormous gate, make the rest into a raft, and float on it back to Uruk.
+    - Upon their return, **Ishtar**, the goddess of love, is overcome with lust for Gilgamesh, but Gilgamesh spurns her.
+    - Enraged, the goddess asks her father, **Anu**, the god of the sky, to send the *Bull of Heaven* to punish him.
+    - The bull comes down from the sky, bringing with him seven years of famine.
+    - Gilgamesh and Enkidu wrestle with the bull and kill it.
+    - The gods meet in council and agree that one of the two friends must be punished for their transgression, and they decide Enkidu is going to die.
+    - He takes ill, suffers immensely, and shares his visions of the underworld with Gilgamesh.
+    - When he finally dies, Gilgamesh is heartbroken.
+    - Gilgamesh can’t stop grieving for Enkidu, and he can’t stop brooding about the prospect of his own death.
+    - Exchanging his kingly garments for animal skins as a way of mourning Enkidu, he sets off into the wilderness, determined to find Utnapishtim, a sage that survived the Great Flood (think of him as the Mesopotamian Noah).
+    - After the flood, the gods had granted Utnapishtim eternal life, and Gilgamesh hopes that Utnapishtim can tell him how he might avoid death too.
+    - Gilgamesh’s journey takes him to the twin-peaked mountain called Mashu, where the sun sets into one side of the mountain at night and rises out of the other side in the morning.
+    - Utnapishtim lives beyond the mountain, but the two scorpion monsters that guard its entrance refuse to allow Gilgamesh into the tunnel that passes through it.
+    - Gilgamesh pleads with them, and they relent.
+    - After a harrowing passage through total darkness, Gilgamesh emerges into a beautiful garden by the sea.
+    - There he meets **Siduri**, a veiled tavern keeper, and tells her about his quest; she warns him that seeking immortality is futile and that he should be satisfied with the pleasures of this world.
+    - However, when she can’t turn him away from his purpose, she directs him to **Urshanabi**, the ferryman.
+    - Urshanabi takes Gilgamesh on the boat journey across the sea and through the *Waters of Death* to Utnapishtim.
+    - Utnapishtim tells Gilgamesh the story of the flood—how the gods met in council and decided to destroy humankind.
+    - **Ea**, the god of wisdom, warned Utnapishtim about the gods’ plans and told him how to fashion a gigantic boat in which his family and the seed of every living creature might escape.
+    - When the waters finally receded, the gods regretted what they’d done and agreed that they would never try to destroy humankind again.
+    - Utnapishtim was rewarded with eternal life.
+    - Men would die, but humankind would continue.
+    - When Gilgamesh insists that he be allowed to live forever, Utnapishtim gives him a test: if you think you can stay alive for eternity, he says, surely you can stay awake for a week.
+    - Gilgamesh tries and immediately fails.
+    - So Utnapishtim orders him to clean himself up, put on his royal garments again, and return to Uruk where he belongs.
+    - Just as Gilgamesh is departing, however, Utnapishtim’s wife convinces him to tell Gilgamesh about a miraculous plant that restores youth.
+    - Gilgamesh finds the plant and takes it with him, planning to share it with the elders of Uruk.
+    - But a snake steals the plant one night while they are camping.
+    - As the serpent slithers away, it sheds its skin and becomes young again.
+    - When Gilgamesh returns to Uruk, he is empty-handed but reconciled at last to his mortality.
+    - He knows that he can’t live forever but that humankind will.
+    - Now he sees that the city he had repudiated in his grief and terror is a magnificent, enduring achievement—the closest thing to immortality to which a mortal can aspire.
 
 ### Humbaba,
-- something
+- But a terrifying demon named **Humbaba**, the devoted servant of **Enlil**, the god of earth, wind, and air, guards it.
 
 ### Ishtar and the bull of heaven
-- something
+- Upon their return, **Ishtar**, the goddess of love, is overcome with lust for Gilgamesh, but Gilgamesh spurns her.
+- Enraged, the goddess asks her father, **Anu**, the god of the sky, to send the *Bull of Heaven* to punish him.
 
-### Ut-napishtim
-- something
+### Utnapishtim
+- Utnapishtim is a character in the Epic of Gilgamesh who is tasked by Ea to abandon his worldly possessions and create a giant ship to be called Preserver of Life.
+- He was also tasked with bringing his wife, family, and relatives along with the craftsmen of his village, baby animals, and grains.
 
 # Perseus
+- He was the son of the Argive princess Danae who was locked away in a bronze chamber by her father Acrisius who lived in fear of a prophecy that he would one day be killed by her son.
+- The god Zeus, however, infiltrated her prison in the guise of a golden shower and impreganted her.
+- When Acrisius discovered the child, he placed the two in a chest and set them adrift at the sea.
+- They were carried safely to the island of Seriphos where they were offered refuge by the kindly, fisherman Diktys.
+- He is a kind fisherman whose brother, Polydectes, is the cruel ruler of the area.
+- Polydectes soon wants to get rid of Perseus and marry Danaë, so he comes up with a plan to kill the young man: he convinces Perseus to go kill Medusa, the horrible Gorgon—an impossible feat for a mortal.
+- The gods favor Perseus, however: he receives a mirrored shield from Athena, a magic sword from Hermes, and information on the location of the nymphs of the North—the only ones who know how to kill the Gorgon—from the Graiae, three supernatural gray sisters with only one eye among them. Perseus craftily steals the eye the Graiae share and refuses to return it until they help him.
+
 ### Graeae
-- More of something here
+- Graeae were two, some say three, sea hags (old women) who personified the white foam of the sea.
+- They were grey-haired from birth and shared amongst themselves a single, detatchable eye and tooth.
+- The hero Perseus stole these when he was searching for the Medusa, compelling the hags to reveal the location of their sister.
 
 ### Medusa – gorgons
-- more of something here.
+- He eventually reaches the mystical land of the Hyperborean nymphs, who give him winged sandals that allow him to fly, a wallet that expands to hold anything, and a cap that makes its wearer invisible.
+- With these, Hermes’ sword, and Athena’s mirrored shield—which enables him to avoid looking directly at the Gorgons, which would turns him to stone—he creeps into the Gorgons’ cave while they are sleeping.
+- The two gods point out Medusa, the only mortal one.
+- While looking at her in the mirror, Perseus chops off her head and puts it in the magic wallet, then begins to fly home.
 
 ### Andromeda
-- more of something here.
+- Along the way, he comes upon Andromeda, a princess who has been chained to a rock because her mother, Cassiopeia, has offended the gods.
+- A sea serpent is about to eat Andromeda, but Perseus cuts off its head and takes Andromeda as his wife.
+- He returns home to find that Polydectes has driven his mother and Dictys into hiding.
+- Perseus goes to Polydectes’ palace where all the evil men of the kingdom are gathered.
+- He marches into the meeting and reveals Medusa’s head, turning all the men to stone.
+- He lives happily ever after but only after unwittingly fulfilling the prophecy of the Oracle: while participating in a discus-throwing contest, Perseus accidentally hits and kills a spectator, who is, unbeknownst to him, his grandfather Acrisius.
 
 # Jason & Medea
 ### Golden Fleece
