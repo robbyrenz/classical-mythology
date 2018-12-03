@@ -288,7 +288,21 @@ The exam is to be held on Wednesday, December 5, at 1:30-4:30pm, in 4M31.
 - something
 
 ### Gilgamesh & Enkidu
-- something
+- Gilgamesh, king of the Sumerian city-state of Uruk, who was two-thirds god and one-third man.
+- He was physically beautiful, immensely strong, and very wise, but he was a cruel despot.
+- He lorded over his subjects, raped women, accomplished his building projects with forced labor, and his exhausted subjects groaned under his oppression.
+- So basically, the gods heard his subjects’ pleas and decided to keep Gilgamesh in check by creating a wild man named Enkidu, who was as magnificent as Gilgamesh.
+- Enkidu became Gilgamesh’s great friend, and Gilgamesh’s heart was shattered when Enkidu died of an illness inflicted by the gods. Gilgamesh then traveled to the edge of the world and learned about the days before the deluge and other secrets of the gods, and he recorded them on stone tablets.
+- The summary of the epic poem:
+    - The epic begins with Enkidu. He lives with the animals, suckling at their breasts, grazing in the meadows, and drinking at their watering places. A hunter discovers him and sends a temple prostitute into the wilderness to tame him.
+    - When Enkidu sleeps with the woman, the animals reject him since he is no longer one of them; now, he is part of the human world.
+    - Then the harlot teaches him everything he needs to know to be a man.
+    - Enkidu is outraged by what he hears about Gilgamesh’s excesses, so he travels to Uruk to challenge him.
+    - When he arrives, Gilgamesh is about to force his way into a bride’s wedding chamber.
+    - Enkidu steps into the doorway and blocks his passage and the two men wrestle fiercely for a long time, and Gilgamesh finally prevails.
+    - After that, they become friends and set about looking for an adventure to share.
+    - Gilgamesh and Enkidu decide to steal trees from a distant cedar forest forbidden to mortals.
+    - But a terrifying demon named Humbaba, the devoted servant of Enlil, the god of earth, wind, and air, guards it. 
 
 ### Humbaba,
 - something
