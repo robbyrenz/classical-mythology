@@ -407,10 +407,18 @@ The exam is to be held on Wednesday, December 5, at 1:30-4:30pm, in 4M31.
 
 # Heracles
 ### Amphitryon, Alcmena, Zeus
-- more of something here.
+- Heracles was the son of the affair Zeus had with the mortal woman Alcmene.
+- Zeus made love to her after disguising himself as her husband, Amphitryon, home early from war
+- Amphitryon did return later the same night, and Alcmene became pregnant with his son at the same time, a case of heteropaternal superfecundation, where a woman carries twins sired by different fathers.
 
 ### Madness of Heracles
-- more of something here.
+- After killing his music tutor Linus with a lyre, he was sent to tend cattle on a mountain by his foster father Amphitryon.
+- Later in Thebes, Heracles married King Creon's daughter, Megara.
+- In a fit of madness, induced by Hera, Heracles killed his children by Megara.
+- After his madness had been cured with hellebore by Antikyreus, the founder of Antikyra, he realized what he had done and fled to the Oracle of Delphi.
+- Unbeknownst to him, the Oracle was guided by Hera.
+- He was directed to serve King Eurystheus for ten years and perform any task Eurystheus required of him.
+- Eurystheus decided to give Heracles ten labours, but after completing them, Heracles was cheated by Eurystheus when he added two more, resulting in the Twelve Labors of Heracles.
 
 ### 12 labours/athloi
 - Heracles was commanded by the Delphic Oracle to perform twelve labors for King Eurystheus of Mycenae.
@@ -492,11 +500,80 @@ The exam is to be held on Wednesday, December 5, at 1:30-4:30pm, in 4M31.
 - more of something here.
 
 ### The death of Heracles – Nessus, Deianira, Iole
-- more of something here.
+- Iole:
+    - After completing these tasks, Heracles joined the Argonauts in a search for the Golden Fleece.
+    - He also fell in love with Princess Iole of Oechalia.
+    - King Eurytus of Oechalia promised his daughter, Iole, to whoever could beat his sons in an archery contest.
+    - Heracles won but Eurytus abandoned his promise.
+    - Heracles' advances were spurned by the king and his sons, except for one: Iole's brother Iphitus.
+    - Heracles killed the king and his sons—excluding Iphitus—and abducted Iole.
+    - Iphitus became Heracles' best friend.
+    - However, once again, Hera drove Heracles mad and he threw Iphitus over the city wall to his death.
+    - Once again, Heracles purified himself through three years of servitude—this time to Queen Omphale of Lydia.
+- Nessus and Deianira:
+    - His third marriage was to Deianira, for whom he had to fight the river god Achelous (upon Achelous' death, Heracles removed one of his horns and gave it to some nymphs who turned it into the cornucopia).
+    - Soon after they wed, Heracles and Deianira had to cross a river, and a centaur named Nessus offered to help Deianira across but then attempted to rape her.
+    - Enraged, Heracles shot the centaur from the opposite shore with a poisoned arrow (tipped with the Lernaean Hydra's blood) and killed him.
+    - As he lay dying, Nessus plotted revenge, told Deianira to gather up his blood and spilled semen and, if she ever wanted to prevent Heracles from having affairs with other women, she should apply them to his vestments.
+    - Nessus knew that his blood had become tainted by the poisonous blood of the Hydra, and would burn through the skin of anyone it touched.
+    - Later, when Deianira suspected that Heracles was fond of Iole, she soaked a shirt of his in the mixture, creating the poisoned shirt of Nessus.
+    - Heracles' servant, Lichas, brought him the shirt and he put it on.
+    - Instantly he was in agony, the cloth burning into him.
+    - As he tried to remove it, the flesh ripped from his bones. Heracles chose a voluntary death, asking that a pyre be built for him to end his suffering.
+    - After death, the gods transformed him into an immortal, or alternatively, the fire burned away the mortal part of the demigod, so that only the god remained.
+    - After his mortal parts had been incinerated, he could become a full god and join his father and the other Olympians on Mount Olympus.
+    - He then marries Hebe.
 
 # Theseus
+- Theseus, a hero of Greek mythology, is best known for slaying a monster called the Minotaur.
+- Poseidon was his father.
+- Theseus was raised in his mother's land.
+- When Theseus grew up and became a brave young man, he moved the rock and recovered his father's tokens.
+- His mother then told him the truth about his father's identity and that he must take the sword and sandals back to king Aegeus to claim his birthright.
+- To journey to Athens, Theseus could choose to go by sea (which was the safe way) or by land, following a dangerous path around the Saronic Gulf, where he would encounter a string of six entrances to the Underworld, each guarded by a chthonic enemy.
+- Young, brave, and ambitious, Theseus decided to go alone by the land route and defeated a great many bandits along the way.
+
 ### Labours of Theseus (6)
-- more of something here.
+1. Theseus and Periphetes
+    - When Theseus arrived at Epidaurus, he met Periphetes. Periphetes, (also known as Corynetes or the Club-Bearer) was a son of Hephaestus and Anticleia. 
+    - Periphetes was lame in one leg and in some versions, had one eye like a Cyclops.
+    - He roamed the road from Athens to Troezen where he robbed travelers and killed them with his bronze club.
+    - Theseus killed him by tricking him into giving him the club to check if it really were bronze.
+    - Theseus then bashed him in the head and killed him.
+2. Theseus and Sinis
+    - An Isthmian outlaw, Sinis, who would force travelers to help him bend pine trees to the ground, but as soon as the pine neared the ground, Sinis would use its momentum to kill the helper.
+    - He then attach the victim to the branch and let the tree reassert itself, tossing the victim to his death.
+    - According to some version, Sinis tied people to two pine trees that he bent down to the ground, then let the trees go, tearing his victims apart. 
+    - When Theseus approached, Sinis asked for the customary help, but instead of having the opportunity to kill his helper, his helper killed him, using the method Sinis had used on so many others.
+    - Sinis had a daughter of remarkable beauty and stature, called Perigune.
+    - After Theseus killed her father, she fled, and Theseus was sought her everywhere.
+    - She came into a place overgrown with brushwood shrubs, and asparagus-thorn, there, and prayed and begged them, to gave her shelter, and promised that if she escaped she would never cut them down nor burn them.
+    - But Theseus calling upon her, and giving her his promise that he would use her with respect, and offer her no injury.
+    - She revealed herself and Theseus had sex with her.
+    - She later bore Theseus's first male heir, Melanippus.
+    - Perigune later married Deioneus of Oechalia.
+3. Theseus and The Crommyonian Sow
+    - The Crommyonian Sow a monstrous wild pig which terrorized the countryside around Crommyon, north of the Isthmus.
+    - The Crommyonian Sow was the pet of an old witch named Phaea. 
+    - In some version the Crommyonian Sow was described as an offspring of Typhon and Echidna.
+    - When Theseus arrived at Crommyon,  he killed the Crommyonian Sow and its mistress.
+4. Theseus and Sciron
+    - An Isthmian outlaw, Sciron was the son of either Pelops or Poseidon.
+    - He lived at the Sceironian Rocks, a cliff on the Saronic coast of the Isthmus of Corinth.
+    - Sciron robbed travelers passing the Sceironian Rocks and forced them to wash his feet.
+    - When they knelt before him, he kicked them over the cliff into the sea, where they were eaten by a monstrous sea turtle.
+    - Theseus killed him in the same way, by pushing him off the cliff.
+5. Theseus and Cercyon
+    - Cercyon was the King of Eleusis, and a very strong man.
+    - Cercyon stood on the roads around Eleusis and challenged passers-by to a wrestling match. 
+    - The loser (always the passer-by) was murdered, though Cercyon promised his kingdom to anyone who won.
+    - He was eventually beaten and killed by Theseus, who took over the kingdom of Eleusis.
+    - Theseus won owing to his skill, rather than superiority in brute physical strength.
+6. Theseus and Procrustes
+    - Procrustes was the son of Poseidon with a stronghold on Mount Korydallos at Erineus, on the sacred way between Athens and Eleusis.
+    - There he had an iron bed, in which he invited every passer-by to spend the night, and where he set to work on them with his smith's hammer, to stretch them to fit. 
+    - In some version, if the guest proved too tall, Procrustes would amputate the excess length; nobody ever fit the bed exactly, because secretly Procrustes had two beds.
+    - Theseus turned the tables on Procrustes, cutting off his legs and decapitating him with his own axe.
 
 ### Bull of Marathon
 - more of something here.
@@ -540,7 +617,7 @@ The exam is to be held on Wednesday, December 5, at 1:30-4:30pm, in 4M31.
 - more of something here.
 - 
 ### Odyssey – life of Odysseus
-- more of something here.
-- 
+- In The Odyssey, Homer repeatedly refers to Odysseus as a "man of many twists and turns," a "sacker of cities," and a "great teller of stories." He does not refer to him as "son of Neleus," because Neleus was the father of Nestor. Odysseus' father was Laertes.
+
 ### Final episode of Netflix’s Troy – reception of the war
 - more of something here.
