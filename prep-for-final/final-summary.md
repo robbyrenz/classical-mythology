@@ -413,7 +413,52 @@ The exam is to be held on Wednesday, December 5, at 1:30-4:30pm, in 4M31.
 - more of something here.
 
 ### 12 labours/athloi
-- more of something here.
+- Heracles was commanded by the Delphic Oracle to perform twelve labors for King Eurystheus of Mycenae.
+    1. Slay the Nemean Lion.
+    2. Slay the nine-headed Lernaean Hydra.
+    3. Capture the Cerynitian Hind.
+    4. Capture the Erymanthian Boar.
+    5. Clean Augeias' stables
+    6. Slay the Stymphalian Birds.
+        - Stymphalian Birds were a flock of man-eating birds which haunted Lake Stymphalis in Arkadia (Arcadia). Herakles' destroyed them as the sixth of his twelve labours, employing a rattle to rouse them from the thick vegetation surrounding the lake and then felling them with his arrows or a sling.
+    7. Capture the Cretan Bull.
+        - The Cretan Bull was a handsome bull sent forth from the sea by Poseidon.
+        - Queen Pasiphae of Crete lusted after the animal and coupled with it by hiding inside a wooden cow crafted by the artificer Daedalus.
+        - She later gave birth to the Minotaur, a man with the head of a bull.
+        - Heracles was commanded to fetch the Cretan Bull as one of his Twelve Labours.
+        - Upon completion of this task he set the creature free and it eventually found its way to the Athenian town of Marathon where it laid waste to the countryside.
+        - There it was finally destroyed by the hero Theseus.
+    8. Steal the Mares of Diomedes.
+        - Diomedes was a barbaric king of the Bistonian tribe of Thrake who fed his mares on a diet of human flesh.
+        - Herakles was sent to fetch these horses as the eighth of his twelve Labours.
+        - He captured the beasts alive and left them in the care of his young squire Abderos while he went off to deal with King Diomedes.
+        - He returned to discover the boy had been devoured by the mares and in anger fed them their master's corpse which stilled their unnatural appetites.
+    9.  Obtain the belt of Hippolyta, Queen of the Amazons.
+        - Hippolyta was so impressed with Hercules that she gave him the girdle without argument, perhaps while visiting him on his ship.
+        - Then the goddess Hera, making herself appear as one of the Amazons, spread a rumor among them that Hercules and his crew were abducting their queen, so the Amazons attacked the ship.
+        - In the fray that followed, Hercules slew Hippolyta, stripped her of the belt, fought off the attackers, and sailed away.
+    10. Obtain the cattle of the monster Geryon.
+        - Geryon was a three-bodied, four-winged giant who lived on the island of Erytheia in the westernmost reach of the earth-encircling river Oceanus.
+        - He possessed a fabulous herd of cattle whose coats were stained red by the light of the sunset.
+        - Heracles was sent to fetch these as one of his twelve labours.
+        - The hero reached the island by sailing across the Oceanus in a golden cup-boat borrowed from the sun-god Helios.
+        - There he encountered and slew the cattle-herder Eurytion, the two-headed guard dog Orthus, and finally three-bodied Geryon himself.
+        - With this task complete the hero herded the cattle into his boat and led them back to the Greek Peloponnese.
+    11. Steal the apples of the Hesperides 
+        - The Hesperides were the goddess-nymphs of evening and the golden light of sunsets.
+        - They were the daughters of either Nyx (Night) or the heaven-bearing Titan Atlas.
+        - The Hesperides were entrusted with the care of the tree of the golden apples which was had been presented to the goddess Hera by Gaia (the Earth) on her wedding day.
+        - They were assisted by a hundred-headed guardian-Drakon (Dragon).
+        - Herakles was sent to fetch the apples as one of his twelve labours and, upon slaying the serpent (Ladon), stole the precious fruit.
+        - (he had the help of Atlas to pick them after Hercules had slain Ladon).
+        - Athena later returned them to the Hesperides.
+        - The Hesperides were also the keepers of other treasures of the gods; Perseus obtained from them the artifacts he needed to slay the Gorgon Medusa.
+    12. Capture and bring back Cerberus.
+        - Cerberus was the gigantic, three-headed hound of Hades which guarded the gates of the underworld and prevented the escape of the shades of the dead.
+        - Cerberus was depicted as a three-headed dog with a serpent's tail, mane of snakes, and a lion's claws.
+        - He used the souls to help convince Hades to hand over the dog.
+        - He agreed to give him the dog if he used no weapons to obtain him.
+        - Heracles succeeded and took the creature back to Mycenae, causing Eurystheus to be fearful of the power and strength of this hero.
 
 ### Heracles the avenger
 - more of something here.

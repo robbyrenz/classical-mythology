@@ -18,4 +18,5 @@
 ..gitignore.un~
 .gitignore~
 *~
+*synctex.gz
 
