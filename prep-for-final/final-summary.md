@@ -383,12 +383,56 @@ The exam is to be held on Wednesday, December 5, at 1:30-4:30pm, in 4M31.
 
 # Jason & Medea
 - Medea was the daughter of King Aeetes of Colchis in Greek mythology, and wife of the mythical hero Jason.
+- Jason was an ancient Greek mythological hero who was the leader of the Argonauts whose quest for the Golden Fleece featured in Greek literature.
+- He was the son of Aeson, the rightful king of **Iolcos**.
+- He was married to the sorceress Medea.
+- He was also the great-grandson of the messenger god Hermes, through his mother's side.
 
 ### Golden Fleece
-- more of something here.
+- The Golden Fleece is the fleece of the gold-haired winged ram, which was held in Colchis.
+- The fleece is a symbol of authority and kingship.
+- It figures in the tale of the hero Jason and his crew of Argonauts, who set out on a quest for the fleece by order of King Pelias, in order to place Jason rightfully on the throne of Iolcus in Thessaly.
+- Through the help of Medea, they acquire the Golden Fleece.
+- The story is of great antiquity and was current in the time of Homer (eighth century BCE).
+- The tale of the Golden Fleece begins when Athamas, king of Orchomenus, had left his wife Nephele, to marry Ino, who was a daughter of Cadmus, the legendary king of Thebes.
+- In order to secure that her own son would inherit the kingdom, Ino plotted the destruction of Athamas'son, Phrixus and his daughter Helle.
+- To that end, she damaged all all of the seed grain in the kingdom.
+- When the crops failed, messengers were sent to the Delphic oracle for guidance.
+- Ino then bribed the returning messengers to change the oracle: Phrixus must be sacrificed!
+- Athamas reluctantly agreed to heed the false oracle.
+- But just as he raised the knife over his son on the altar, a wondrous, golden winged ram appeared, taking both Phrixus and Helle on his back to carry them away.
+- While they were crossing the strait which separates Europe from Asia, the girl slipped and fell into the water.
+- She was drowned; and the strait was named after her Hellespont (Sea of Helle).
+- The boy came safely to land to the country of Colchis on the Black Sea.
+- Although the Colchians were fierce people, they were kind to Phrixus and their king, Aetes, let him marry one of his daughters.
+- In gratitude to god Zeus for having being saved, Phrixus sacrificed the ram and gave his golden fleece as a present, to king Aeetes.
+
+
 
 ### Jason, Aeson, & Pelias
-- more of something here.
+- After the death of King Cretheus, the Aeolian **Pelias** usurped the Iolcan throne from his half-brother **Aeson** and became king of **Iolcus** in Thessaly (near the modern city of Volos).
+- Because of this unlawful act, an oracle warned him that a descendant of **Aeolus** would seek revenge.
+- Pelias put to death every prominent descendant of Aeolus he could, but spared Aeson because of the pleas of their mother Tyro.
+- Instead, Pelias kept Aeson prisoner and forced him to renounce his inheritance.
+- Aeson married **Alcimede**, who bore him a son named Jason.
+- Pelias intended to kill the baby at once, but Alcimede summoned her kinswomen to weep over him as if he were stillborn.
+- She faked a burial and smuggled the baby to Mount Pelion.
+- He was raised by the centaur **Chiron**, the trainer of heroes.
+- When Jason was 20 years old, an oracle ordered him to dress as a Magnesian and head to the Iolcan court.
+- While traveling Jason lost his sandal crossing the muddy Anavros river while helping an old woman (Hera in disguise).
+- The goddess was angry with King Pelias for killing his stepmother Sidero after she had sought refuge in Hera's temple.
+- Another oracle warned Pelias to be on his guard against a man with one shoe.
+- Pelias was presiding over a sacrifice to Poseidon with several neighboring kings in attendance.
+- Among the crowd stood a tall youth in leopard skin with only one sandal.
+- Pelias recognized that Jason was his nephew.
+- He could not kill him because prominent kings of the Aeolian family were present.
+- Instead, he asked Jason: "What would you do if an oracle announced that one of your fellow-citizens were destined to kill you?" Jason replied that he would send him to go and fetch the Golden Fleece, not knowing that Hera had put those words in his mouth.
+- Jason learned later that Pelias was being haunted by the ghost of Phrixus.
+- Phrixus had fled from Orchomenus riding on a divine ram to avoid being sacrificed and took refuge in Colchis where he was later denied proper burial.
+- According to an oracle, Iolcus would never prosper unless his ghost was taken back in a ship, together with the golden ram's fleece.
+- This fleece now hung from a tree in the grove of the Colchian Ares, guarded night and day by a dragon that never slept.
+- Pelias swore before Zeus that he would give up the throne at Jason's return while expecting that Jason's attempt to steal the Golden Fleece would be a fatal enterprise.
+- However, Hera acted in Jason's favour during the perilous journey.
 
 ### Voyage of the Argonauts
 - more of something here.
@@ -576,7 +620,13 @@ The exam is to be held on Wednesday, December 5, at 1:30-4:30pm, in 4M31.
     - Theseus turned the tables on Procrustes, cutting off his legs and decapitating him with his own axe.
 
 ### Bull of Marathon
-- more of something here.
+- When Theseus arrived at Athens, he did not reveal his true identity immediately.
+- Aegeus gave him hospitality but was suspicious of the young, powerful stranger's intentions.
+- Aegeus's wife Medea recognised Theseus immediately as Aegeus' son and worried that Theseus would be chosen as heir to Aegeus' kingdom instead of her son Medus.
+- She tried to arrange to have Theseus killed by asking him to capture the Marathonian Bull, an emblem of Cretan power.
+- When Theseus returned victorious to Athens, where he sacrificed the Bull, Medea tried to poison him.
+- At the last second, Aegeus recognised the sandals and the sword, and knocked the poisoned wine cup from Theseus's hand.
+- Thus father and son were reunited, and Medea, it was said, fled to Asia.
 
 ### Pasiphae
 - more of something here.
