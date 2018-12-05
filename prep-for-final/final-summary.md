@@ -415,12 +415,40 @@ The exam is to be held on Wednesday, December 5, at 1:30-4:30pm, in 4M31.
 ### 12 labours/athloi
 - Heracles was commanded by the Delphic Oracle to perform twelve labors for King Eurystheus of Mycenae.
     1. Slay the Nemean Lion.
+        - Nemean Lion was a large lion whose hide was impervious to weapons.
+        - It plagued the district of Nemea in the Argolis.
+        - King Eurystheus commanded Heracles to destroy the beast as the first of his twelve Labours.
+        - The hero cornered the lion in its cave and seizing it by the neck wrestled it to death.
+        - He then skinned its hide to make a lion-skin cape, one of his most distinctive attributes.
     2. Slay the nine-headed Lernaean Hydra.
+        - Lernaean Hydra was a gigantic, nine-headed water-serpent, which haunted the swamps of Lerna.
+        - Heracles was sent to destroy her as one of his twelve labours, but for each of her heads that he decapitated, two more sprang forth.
+        - So with the help of Iolaus, he applied burning brands to the severed stumps, cauterizing the wounds and preventing the regeneration.
+        - In the battle he also crushed a giant crab that was sent by Hera beneath his heel which had come to assist the Hydra. 
     3. Capture the Cerynitian Hind.
+        - Cerynitian Hind was a golden-horned deer sacred to the goddess Artemis.
+        - Heracles was sent to fetch it as one of his twelve labours.
+        - After chasing the animal for a full year he finally captured it on Mount Artemision in Arkadia (Arcadia).
+        - The goddess Artemis complained about the treatment of her deer whose horn had broken off by the hero in the struggle. 
+        - He nevertheless managed to persuade her to let him borrow it for the completion of his Labour.
     4. Capture the Erymanthian Boar.
+        - Erymanthian Boar was a gigantic boar which ravaged the farmlands of Psophis in western Arkadia (Arcadia).
+        - Heracles was sent to capture it as one of his Twelve Labours.
+        - After chasing the boar through the deep winter snows of Mount Erymanthos, he netted it and brought it back alive to Eurystheus.
+        - The king, terrified at the sight of the deadly beast, leapt into a buried pithos jar for safety.
     5. Clean Augeias' stables
+        - Augeias (Augeas) was a king of Elis in the western Peloponnesos who possessed an enormous herd of cattle.
+        - Heracles was commanded by King Eurystheus to clean Augeias' stables as one of his Twelve Labours.
+        - The hero accomplished this by diverting the waters of the river Alpheios (Alpheus) through the plain, washing the manure away.
+        - When Augeias refused him the promised payment, Heracles swore revenge and, after his Labours were complete, gathered an army to invade the country.
+        - The king at first repelled the hero with the help of several allies, including his nephews, the twin Molionidai, and Amarynkeus.
+        - Heracles was also struck down by illness, further stalling the campaign.
+        - After his recovery, he ambushed and slew the twins at Kleonai (Cleonae) before launching a second invasion.
+        - This time he conquered the country, slaying King Augeias in battle.
+        - To celebrate his victory Herakles founded the Olympic Games near the Eleian town of Pisa.
     6. Slay the Stymphalian Birds.
-        - Stymphalian Birds were a flock of man-eating birds which haunted Lake Stymphalis in Arkadia (Arcadia). Herakles' destroyed them as the sixth of his twelve labours, employing a rattle to rouse them from the thick vegetation surrounding the lake and then felling them with his arrows or a sling.
+        - Stymphalian Birds were a flock of man-eating birds which haunted Lake Stymphalis in Arkadia (Arcadia).
+        - Herakles' destroyed them as the sixth of his twelve labours, employing a rattle to rouse them from the thick vegetation surrounding the lake and then felling them with his arrows or a sling.
     7. Capture the Cretan Bull.
         - The Cretan Bull was a handsome bull sent forth from the sea by Poseidon.
         - Queen Pasiphae of Crete lusted after the animal and coupled with it by hiding inside a wooden cow crafted by the artificer Daedalus.
