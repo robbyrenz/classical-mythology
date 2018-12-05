@@ -407,8 +407,6 @@ The exam is to be held on Wednesday, December 5, at 1:30-4:30pm, in 4M31.
 - Although the Colchians were fierce people, they were kind to Phrixus and their king, Aetes, let him marry one of his daughters.
 - In gratitude to god Zeus for having being saved, Phrixus sacrificed the ram and gave his golden fleece as a present, to king Aeetes.
 
-
-
 ### Jason, Aeson, & Pelias
 - After the death of King Cretheus, the Aeolian **Pelias** usurped the Iolcan throne from his half-brother **Aeson** and became king of **Iolcus** in Thessaly (near the modern city of Volos).
 - Because of this unlawful act, an oracle warned him that a descendant of **Aeolus** would seek revenge.
@@ -435,10 +433,17 @@ The exam is to be held on Wednesday, December 5, at 1:30-4:30pm, in 4M31.
 - However, Hera acted in Jason's favour during the perilous journey.
 
 ### Voyage of the Argonauts
-- more of something here.
+- Arriving at the island of Lemnos.
+- The strange thing about this place was that the only inhabitants were women.
 
 ### Hypsipyle, Harpies, clashing rocks, etc.
-- more of something here.
+- When the Argonauts came to the island of Lemnos, they learned that all the males had been murdered.
+- For the Lemnian women, having learned that their husbands had taken Thracian wives, resolved to kill all men on Lemnos.
+- The women deposed King Thoas, and he should have died along with the other men, but his daughter Hypsipyle, who became queen after him, secretly spared her father.
+- When the Argonauts arrived, Hypsipyle fell in love with their captain Jason and had children with him.
+- But later, when the other women learned that Hypsipyle had spared her father, they sold her as a slave and killed Thoas.
+- (Hypsipyle reappeared years later, when the Argives marching against Thebes learned from her the way to a spring in Nemea, where she served as nurse of the king's son.)
+- The Argonauts consorted with the Lemnian women, and their descendants were called Minyans, since some among them had previously emigrated from Minyan Orchomenus to Iolcus. (Later, these Minyans were driven out from the island, and came to Lacedaemon.)
 
 ### Colchis – deeds & the dragon/serpent
 - more of something here.
@@ -658,16 +663,36 @@ The exam is to be held on Wednesday, December 5, at 1:30-4:30pm, in 4M31.
 - more of something here.
 
 ### The Aeneid – Aeneas’ escape from Troy
-- more of something here.
+- Aeneas:
+    - The protagonist of the Aeneid. Aeneas is a survivor of the siege of Troy, a city on the coast of Asia Minor. His defining characteristic is piety, a respect for the will of the gods. He is a fearsome warrior and a leader able to motivate his men in the face of adversity, but also a man capable of great compassion and sorrow. His destiny is to found the Roman race in Italy and he subordinates all other concerns to this mission. The Aeneid is about his journey from Troy to Italy, which enables him to fulfill his fate.
+- **Plot Overview:**
+    - On the Mediterranean Sea, Aeneas and his fellow Trojans flee from their home city of Troy, which has been destroyed by the Greeks. They sail for Italy, where Aeneas is destined to found Rome. As they near their destination, a fierce storm throws them off course and lands them in Carthage. Dido, Carthage’s founder and queen, welcomes them. Aeneas relates to Dido the long and painful story of his group’s travels thus far.
+    - Aeneas tells of the sack of Troy that ended the Trojan War after ten years of Greek siege. In the final campaign, the Trojans were tricked when they accepted into their city walls a wooden horse that, unbeknownst to them, harbored several Greek soldiers in its hollow belly. He tells how he escaped the burning city with his father, Anchises; his son, Ascanius; and the hearth gods that represent their fallen city. Assured by the gods that a glorious future awaited him in Italy, he set sail with a fleet containing the surviving citizens of Troy. Aeneas relates the ordeals they faced on their journey. Twice they attempted to build a new city, only to be driven away by bad omens and plagues. Harpies, creatures that are part woman and part bird, cursed them, but they also encountered friendly countrymen unexpectedly. Finally, after the loss of Anchises and a bout of terrible weather, they made their way to Carthage.
+    - Impressed by Aeneas’s exploits and sympathetic to his suffering, Dido, a Phoenician princess who fled her home and founded Carthage after her brother murdered her husband, falls in love with Aeneas. They live together as lovers for a period, until the gods remind Aeneas of his duty to found a new city. He determines to set sail once again. Dido is devastated by his departure, and kills herself by ordering a huge pyre to be built with Aeneas’s castaway possessions, climbing upon it, and stabbing herself with the sword Aeneas leaves behind.
+    - As the Trojans make for Italy, bad weather blows them to Sicily, where they hold funeral games for the dead Anchises. The women, tired of the voyage, begin to burn the ships, but a downpour puts the fires out. Some of the travel-weary stay behind, while Aeneas, reinvigorated after his father visits him in a dream, takes the rest on toward Italy. Once there, Aeneas descends into the underworld, guided by the Sibyl of Cumae, to visit his father. He is shown a pageant of the future history and heroes of Rome, which helps him to understand the importance of his mission. Aeneas returns from the underworld, and the Trojans continue up the coast to the region of Latium.
+    - The arrival of the Trojans in Italy begins peacefully. King Latinus, the Italian ruler, extends his hospitality, hoping that Aeneas will prove to be the foreigner whom, according to a prophecy, his daughter Lavinia is supposed to marry. But Latinus’s wife, Amata, has other ideas. She means for Lavinia to marry Turnus, a local suitor. Amata and Turnus cultivate enmity toward the newly arrived Trojans. Meanwhile, Ascanius hunts a stag that was a pet of the local herdsmen. A fight breaks out, and several people are killed. Turnus, riding this current of anger, begins a war.
+    - Aeneas, at the suggestion of the river god Tiberinus, sails north up the Tiber to seek military support among the neighboring tribes. During this voyage, his mother, Venus, descends to give him a new set of weapons, wrought by Vulcan. While the Trojan leader is away, Turnus attacks. Aeneas returns to find his countrymen embroiled in battle. Pallas, the son of Aeneas’s new ally Evander, is killed by Turnus. Aeneas flies into a violent fury, and many more are slain by the day’s end.
+    - The two sides agree to a truce so that they can bury the dead, and the Latin leaders discuss whether to continue the battle. They decide to spare any further unnecessary carnage by proposing a hand-to-hand duel between Aeneas and Turnus. When the two leaders face off, however, the other men begin to quarrel, and full-scale battle resumes. Aeneas is wounded in the thigh, but eventually the Trojans threaten the enemy city. Turnus rushes out to meet Aeneas, who wounds Turnus badly. Aeneas nearly spares Turnus but, remembering the slain Pallas, slays him instead.
 
 ### Agamemnon, Clytemnestra, Iphigenia
-- more of something here.
-- 
+- King Agamemnon, returned from the Trojan War.
+- When he came back, he brought with him his war prize, the Trojan princess Cassandra, who had already borne him twin sons.
+- Upon their arrival, Agamemnon and Cassandra were murdered, by either Clytemnestra herself, her lover Aegisthus or both.
+- Clytemnestra had held a grudge against her husband for agreeing to sacrifice their eldest daughter, Iphigenia, to Artemis so he could send his ships to fight in the Trojan war.
+
 ### Orestes, Electra
-- more of something here.
-- 
+-  Elektra was the daughter of King Agamemnon and Queen Clytemnestra, and thus princess of Argos.
+-  She and her brother Orestes plotted revenge against their mother Clytemnestra and stepfather Aegisthus for the murder of their father.
+
 ### Odyssey – life of Odysseus
 - In The Odyssey, Homer repeatedly refers to Odysseus as a "man of many twists and turns," a "sacker of cities," and a "great teller of stories." He does not refer to him as "son of Neleus," because Neleus was the father of Nestor. Odysseus' father was Laertes.
+- Plot Overview:
+    - Ten years have passed since the fall of Troy, and the Greek hero Odysseus still has not returned to his kingdom in Ithaca. A large and rowdy mob of suitors who have overrun Odysseus’s palace and pillaged his land continue to court his wife, Penelope. She has remained faithful to Odysseus. Prince Telemachus, Odysseus’s son, wants desperately to throw them out but does not have the confidence or experience to fight them. One of the suitors, Antinous, plans to assassinate the young prince, eliminating the only opposition to their dominion over the palace.
+    - Unknown to the suitors, Odysseus is still alive. The beautiful nymph Calypso, possessed by love for him, has imprisoned him on her island, Ogygia. He longs to return to his wife and son, but he has no ship or crew to help him escape. While the gods and goddesses of Mount Olympus debate Odysseus’s future, Athena, Odysseus’s strongest supporter among the gods, resolves to help Telemachus. Disguised as a friend of the prince’s grandfather, Laertes, she convinces the prince to call a meeting of the assembly at which he reproaches the suitors. Athena also prepares him for a great journey to Pylos and Sparta, where the kings Nestor and Menelaus, Odysseus’s companions during the war, inform him that Odysseus is alive and trapped on Calypso’s island. Telemachus makes plans to return home, while, back in Ithaca, Antinous and the other suitors prepare an ambush to kill him when he reaches port.
+    - On Mount Olympus, Zeus sends Hermes to rescue Odysseus from Calypso. Hermes persuades Calypso to let Odysseus build a ship and leave. The homesick hero sets sail, but when Poseidon, god of the sea, finds him sailing home, he sends a storm to wreck Odysseus’s ship. Poseidon has harbored a bitter grudge against Odysseus since the hero blinded his son, the Cyclops Polyphemus, earlier in his travels. Athena intervenes to save Odysseus from Poseidon’s wrath, and the beleaguered king lands at Scheria, home of the Phaeacians. Nausicaa, the Phaeacian princess, shows him to the royal palace, and Odysseus receives a warm welcome from the king and queen. When he identifies himself as Odysseus, his hosts, who have heard of his exploits at Troy, are stunned. They promise to give him safe passage to Ithaca, but first they beg to hear the story of his adventures.
+    - Odysseus spends the night describing the fantastic chain of events leading up to his arrival on Calypso’s island. He recounts his trip to the Land of the Lotus Eaters, his battle with Polyphemus the Cyclops, his love affair with the witch-goddess Circe, his temptation by the deadly Sirens, his journey into Hades to consult the prophet Tiresias, and his fight with the sea monster Scylla. When he finishes his story, the Phaeacians return Odysseus to Ithaca, where he seeks out the hut of his faithful swineherd, Eumaeus. Though Athena has disguised Odysseus as a beggar, Eumaeus warmly receives and nourishes him in the hut. He soon encounters Telemachus, who has returned from Pylos and Sparta despite the suitors’ ambush, and reveals to him his true identity. Odysseus and Telemachus devise a plan to massacre the suitors and regain control of Ithaca.
+    - When Odysseus arrives at the palace the next day, still disguised as a beggar, he endures abuse and insults from the suitors. The only person who recognizes him is his old nurse, Eurycleia, but she swears not to disclose his secret. Penelope takes an interest in this strange beggar, suspecting that he might be her long-lost husband. Quite crafty herself, Penelope organizes an archery contest the following day and promises to marry any man who can string Odysseus’s great bow and fire an arrow through a row of twelve axes—a feat that only Odysseus has ever been able to accomplish. At the contest, each suitor tries to string the bow and fails. Odysseus steps up to the bow and, with little effort, fires an arrow through all twelve axes. He then turns the bow on the suitors. He and Telemachus, assisted by a few faithful servants, kill every last suitor.
+    - Odysseus reveals himself to the entire palace and reunites with his loving Penelope. He travels to the outskirts of Ithaca to see his aging father, Laertes. They come under attack from the vengeful family members of the dead suitors, but Laertes, reinvigorated by his son’s return, successfully kills Antinous’s father and puts a stop to the attack. Zeus dispatches Athena to restore peace. With his power secure and his family reunited, Odysseus’s long ordeal comes to an end.
 
 ### Final episode of Netflix’s Troy – reception of the war
 - more of something here.
